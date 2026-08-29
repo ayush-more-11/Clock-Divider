@@ -1,5 +1,0 @@
-set_property IOSTANDARD LVCMOS33 [get_ports clk_100MHz]
-set_property IOSTANDARD LVCMOS33 [get_ports clk_1Hz]
-set_property IOSTANDARD LVCMOS33 [get_ports reset]
-set_property PACKAGE_PIN F14 [get_ports clk_100MHz]
-set_property PACKAGE_PIN E1 [get_ports clk_1Hz]
